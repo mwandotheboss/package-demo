@@ -1,0 +1,15 @@
+{
+  "name": "@mwandotheboss/package-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zephania Mwando",
+  "repository": {
+    "url": "git://github.com/mwandotheboss/package-demo.git"
+  },
+  "license": "ISC"
+}
